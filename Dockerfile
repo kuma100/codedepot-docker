@@ -1,4 +1,3 @@
-
 FROM alpine:3.6
 LABEL Name=codedepot Version=0.0.1
 RUN set -x && \
